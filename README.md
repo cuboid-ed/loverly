@@ -1,6 +1,6 @@
 # loverly
 
 # Team
-Hina Sekine \\ 
--> CS, Physics, Mathematics 2025! \\ 
+Hina Sekine \n
+-> CS, Physics, Mathematics 2025! \n
 -> hinasekine@yaylife.dev
